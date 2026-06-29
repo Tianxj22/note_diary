@@ -1,0 +1,6 @@
+.trash/
+.trash-meta.json
+.clipboard/
+.name-stack.json
+.sync-state.json
+settings.json
